@@ -1,0 +1,5 @@
+-> Open Redis (CD command)
+-> Run redis-server.exe
+-> Expected - [*] Redis is now ready to accept connections on port 6379
+-> Run redis-cli.exe
+-> Expected - 127.0.0.1:6379>
